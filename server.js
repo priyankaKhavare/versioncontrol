@@ -52,10 +52,17 @@ class HandlerGenerator {
       message: 'Successfully veriskdbfjkb'
     });
   }
-  examplebranchMethod (req, res) {
+   examplebranchMethod (req, res) {
     res.json({
       success: true,
       message: 'Successfully veriskdbfjkb'
+    });
+  }
+  
+    getData1 (req, res) {
+    res.json({
+      success: true,
+      message: 'Successfully veriskdbfjkb masterrrrrrrrrrrrr'
     });
   }
 }
