@@ -52,6 +52,17 @@ class HandlerGenerator {
       message: 'Successfully veriskdbfjkb'
     });
   }
+
+   
+  getData1 (req, res) {
+    res.json({
+      success: true,
+      message: 'Successfully veriskdbfjkb'
+    });
+  }
+
+
+
 }
 
 // Starting point of the server
