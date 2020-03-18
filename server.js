@@ -52,6 +52,12 @@ class HandlerGenerator {
       message: 'Successfully veriskdbfjkb'
     });
   }
+  examplebranchMethod (req, res) {
+    res.json({
+      success: true,
+      message: 'Successfully veriskdbfjkb'
+    });
+  }
 }
 
 // Starting point of the server
