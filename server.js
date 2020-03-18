@@ -57,7 +57,7 @@ class HandlerGenerator {
   getData1 (req, res) {
     res.json({
       success: true,
-      message: 'Successfully veriskdbfjkb'
+      message: 'Successfully veriskdbfjkb masterrrrrrrrrrrrr'
     });
   }
 
