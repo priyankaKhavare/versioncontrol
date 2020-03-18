@@ -52,6 +52,13 @@ class HandlerGenerator {
       message: 'Successfully veriskdbfjkb'
     });
   }
+  
+   getexamplebeforecommitmaster (req, res) {
+    res.json({
+      success: true,
+      message: 'Successfully veriskdbfjkb'
+    });
+  }
    examplebranch2 (req, res) {
     res.json({
       success: true,
